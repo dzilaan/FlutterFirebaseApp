@@ -1,6 +1,8 @@
-# flutter_ecommerce_app_firebase
+# Flutter Firebase App
 
-A new Flutter project.
+App with GetX to implement MVC Structure
+
+Utilizing all Firebase Modules.
 
 ## Getting Started
 

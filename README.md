@@ -1,6 +1,7 @@
 # Flutter Firebase App
 
 App with GetX to implement MVC Structure
+
 Utilizing all Firebase Modules.
 
 ## Getting Started

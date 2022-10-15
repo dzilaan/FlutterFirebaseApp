@@ -1,6 +1,6 @@
 # Flutter Firebase App
 
-App with GetX to implement MVC Structure
+App with Bloc State Management and implement it in MVC Structure
 
 Utilizing all Firebase Modules.
 
